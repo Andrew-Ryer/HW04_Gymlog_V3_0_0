@@ -8,6 +8,7 @@ If I am feeling brave I will add in a recycler view too.
 This is the overall view of the final product.  Once I get the login screen setup and working, including the logout features, I will record this video.  Anything afer this (editing logs, more user info, etc. Will be shown in their respective video).
 
 
+
 ## Video 01: Setup
 1. Create a gitignore file
 2. Create a branch
